@@ -1,0 +1,2 @@
+block element <h1>, div,body
+inline element== <small></small>, span,
