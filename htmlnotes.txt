@@ -1,0 +1,17 @@
+block element <h1>, div,body
+inline element== <small></small>, span,
+
+
+Assignment 1: add image with diffrent path
+
+
+1. type of ol tag = A,a,I,i,
+reversed is an attribute of ol tag
+
+2. start attribute in ol tag always works with numeric value start= "45".
+
+3. unordered list - ul
+3.1 type= circle, square, disc.
+
+4. Definition list dl tag
+4.1 
