@@ -15,3 +15,473 @@ reversed is an attribute of ol tag
 
 4. Definition list dl tag
 4.1 
+
+13th November
+!--html link and hypelink
+
+1.local link -relative link
+2.global link -absolute link
+3.internal link - reference link == scroll bar hona must hai 
+
+##
+1. link color by default blues
+2.link send - purple
+3.click -red color link
+
+## Favicon 
+ min- 15 by 15
+ max-20 by 20
+
+## html table
+1- row
+1-column must hai
+tr - table row
+th - table heading
+td - table data
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <title>Document</title>
+  <link rel="favicon" href="/12novassignment/images/image_1.jpg">
+  </head>
+  <body link="Orange" vlink="yellow" alink="black">
+
+    <!-- <a href="./12novassignment/images/image_1.jpg" target="_blank"></a>
+      <a href="https://www.gmail.com">Gmail</a> -->
+    <!--local link or relative link-->
+    <!-- <a href="pic.jpg" target="_blank" title="link1">click here</a>
+    <a href="" target="_blank" title="link1">send</a>
+    <a href="home.html" target="_blank">Home</a> -->
+
+    <!--Global link- or absolute link-->
+    <!-- <a href="https://www.google.com/" target="_blank">google</a>
+    <a href="https://ducat.com/" target="_blank" title="link1">
+      <img
+        src="./12novassignment/images/image_1.jpg"
+        alt=""
+        width="40%"
+        height="40px"
+      />
+    </a> -->
+    <!--internal link-->
+    <!-- <h2 id="data">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere,
+      necessitatibus.
+    </h2>
+    <p>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel, facere
+      excepturi optio aliquam quidem dolores. Voluptates veritatis aliquid
+      similique ducimus.
+    </p>
+    <h2>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
+      distinctio quisquam sed blanditiis odit facere debitis quam molestiae,
+      incidunt voluptatem aut saepe et quo praesentium vel enim laborum
+      assumenda? Placeat.
+    </h2>
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque excepturi
+      minus iure rerum voluptas ex. Tempora tempore rem repellat labore hic
+      voluptatem, mollitia nisi maiores asperiores ad. Laudantium esse cum,
+      magni dolor quis vel eum id perferendis consequatur rem! Neque minima
+      labore harum deleniti temporibus vero doloremque voluptatum! Ut,
+      molestiae!
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam modi tempora
+      eum esse voluptates quae sint neque ullam illo, sequi, alias atque. Eius
+      quae pariatur ullam, reiciendis veritatis repudiandae omnis ex deserunt,
+      nostrum reprehenderit modi? Voluptate adipisci earum voluptatem provident
+      quos, distinctio explicabo ducimus repellat, voluptas possimus,
+      repudiandae consectetur! Consequuntur dolorum veniam repellendus sit
+      alias? Nobis, mollitia cumque! Expedita sed facere aliquam suscipit, harum
+      rem minus provident maiores? Et sunt est soluta omnis a nostrum quaerat
+      nesciunt sit animi beatae harum debitis facilis obcaecati praesentium
+      earum, maiores velit nihil non minus similique explicabo vel ducimus!
+      Officiis tenetur error ut esse ad eos voluptas soluta assumenda temporibus
+      officia et quae qui quidem perferendis iure, molestiae commodi asperiores
+      eius corporis doloribus culpa quia illum. Molestiae non quas deleniti
+      tenetur voluptas inventore fugit quibusdam, qui autem, cumque molestias
+      est commodi vero repellendus quo sit ipsa ratione modi quae. Odio
+      inventore maxime ab labore repellendus tenetur ad sapiente. Sed ea, sequi,
+      vel voluptatibus fugiat officia at facere ad suscipit inventore quam
+      aspernatur numquam? Labore, a commodi. Nihil reiciendis dolorem, dolore
+      hic vitae accusamus modi quasi itaque, voluptatibus dolorum suscipit
+      aliquam nisi aliquid alias minus perferendis velit architecto expedita
+      perspiciatis dolor quam ex repellendus accusantium? Tempore debitis
+      molestias saepe aliquam odio. Animi ad incidunt voluptate iure dicta qui,
+      cupiditate itaque dolor sapiente earum. Itaque autem fuga ipsum unde aut
+      optio, laboriosam repudiandae esse beatae maxime omnis deserunt, excepturi
+      molestiae voluptas sit quo accusantium architecto eaque distinctio impedit
+      quae? Ipsum in itaque, earum animi inventore sequi, fugiat esse magni
+      eaque consectetur molestias commodi illo explicabo, modi aperiam et
+      cumque. Atque voluptatibus, esse corrupti, praesentium non omnis veniam
+      quo officia minus eaque numquam. Unde dolorem voluptate, odit, facere
+      harum in eius sapiente impedit exercitationem nobis aliquam qui minima sed
+      iste, aliquid perspiciatis recusandae at ex officia animi expedita quod
+      repellendus. Doloremque maxime alias nostrum placeat libero, consequuntur
+      inventore laudantium dolorem? Eius animi magni laborum quo. Alias
+      repellendus expedita explicabo excepturi quisquam aperiam aliquam autem,
+      vel itaque, nobis molestiae eaque totam sapiente amet consequatur, est
+      officia voluptatem. Architecto eos odio quod voluptate sed possimus, quae
+      pariatur ipsa saepe quisquam ut in! Nesciunt, alias? Nemo voluptas unde
+      placeat officiis sint optio temporibus. Blanditiis numquam harum labore
+      repudiandae, dolorem voluptas ratione? Odio excepturi ratione debitis
+      nostrum dolor tempora, ipsum numquam voluptate, reprehenderit nobis quis,
+      repellat quisquam cupiditate optio nemo similique fuga aliquid consectetur
+      exercitationem. Id quidem iste dolor! Rerum autem deleniti at sint placeat
+      exercitationem blanditiis architecto, repellat, amet repellendus officiis
+      quod delectus temporibus quis excepturi distinctio laboriosam, ex aperiam
+      hic. Iste nam odit maxime, aliquam voluptatem incidunt eos perferendis
+      laboriosam. Eligendi, quia temporibus? Neque similique accusamus libero
+      laborum! Ullam eos nesciunt sint cumque reprehenderit laudantium ducimus,
+      exercitationem non explicabo quis ad nisi quisquam asperiores quo! Quidem
+      porro deleniti aliquid voluptatibus, pariatur mollitia incidunt totam
+      cumque, placeat, quam sed. Quibusdam dolorem suscipit labore nam. Nisi
+      earum autem dolores dolorem. Quibusdam laborum maxime rem quisquam tempore
+      asperiores sed, odio corrupti soluta dignissimos eius nihil, fugiat quis.
+      Esse commodi optio libero reprehenderit ea facere, asperiores, ullam iste
+      nostrum perspiciatis voluptatum consequatur sapiente aliquid accusantium,
+      laboriosam perferendis ducimus assumenda sunt eius alias pariatur. At
+      praesentium nobis voluptatem ipsam distinctio ab soluta eveniet. Quis
+      voluptate corporis unde autem temporibus. Iste officiis beatae quam minima
+      tempore adipisci quis, vero pariatur fugit hic natus. Ad itaque cupiditate
+      repellat commodi excepturi architecto numquam quisquam, error, nam
+      incidunt aut necessitatibus alias temporibus. Enim sed odit officiis in
+      maiores non illo. Mollitia debitis sapiente eligendi et, animi sit nihil
+      molestias impedit libero adipisci, odio illo quidem hic veniam eius quos
+      quibusdam aspernatur. Quidem ex eius voluptatibus, facilis blanditiis
+      tempore delectus, itaque tempora culpa nihil nobis nulla eos, fugiat
+      aliquid dolore a aliquam laudantium. Tempora consequuntur excepturi
+      corrupti distinctio. Modi nulla dolor iste sit, eius natus quasi numquam
+      sed libero neque suscipit, temporibus perspiciatis repellat officiis
+      laboriosam nobis recusandae qui corrupti, veritatis saepe placeat
+      doloribus minima. Earum laudantium ullam consectetur repellat, nihil
+      praesentium eveniet aliquam sequi sunt magnam perspiciatis architecto
+      ratione tempora soluta doloribus saepe obcaecati sint voluptatem
+      aspernatur beatae unde minus. Nulla corporis laborum recusandae quasi
+      reprehenderit! Iure reiciendis aperiam facilis natus earum sint est hic
+      dolores recusandae veritatis aut doloribus a quia illum in officiis,
+      blanditiis repellat! Nostrum in, assumenda ipsam iusto, qui mollitia
+      numquam, ea veritatis reiciendis cupiditate tenetur odit reprehenderit nam
+      saepe vitae eos voluptas nulla. Ut libero numquam animi pariatur
+      repudiandae nisi et laudantium eveniet distinctio, labore molestias, ad
+      neque tempore sequi nulla dicta. Laborum quasi laboriosam magnam a, beatae
+      illum porro expedita temporibus eveniet reprehenderit nostrum eius,
+      exercitationem similique debitis? Optio eius voluptates quas iste tempora.
+      Vero, exercitationem! Dolores excepturi, neque earum modi rem velit. A
+      amet quisquam repudiandae voluptas vitae eius, ea, odio sapiente itaque
+      laborum ad expedita eaque, ab harum dicta laudantium adipisci optio!
+      Facere eos ipsum nihil, rerum voluptatibus quod? Delectus?
+    </p> -->
+
+    <a href="#data">top</a>
+
+    <!--bottom internal link-->
+    <a  id="demo" href="#txt">Bottom</a>
+    <h2
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere,
+      necessitatibus.
+    </h2>
+    <!-- <p>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel, facere
+      excepturi optio aliquam quidem dolores. Voluptates veritatis aliquid
+      similique ducimus.
+    </p>
+    <h2>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
+      distinctio quisquam sed blanditiis odit facere debitis quam molestiae,
+      incidunt voluptatem aut saepe et quo praesentium vel enim laborum
+      assumenda? Placeat.
+    </h2>
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque excepturi
+      minus iure rerum voluptas ex. Tempora tempore rem repellat labore hic
+      voluptatem, mollitia nisi maiores asperiores ad. Laudantium esse cum,
+      magni dolor quis vel eum id perferendis consequatur rem! Neque minima
+      labore harum deleniti temporibus vero doloremque voluptatum! Ut,
+      molestiae!
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam modi tempora
+      eum esse voluptates quae sint neque ullam illo, sequi, alias atque. Eius
+      quae pariatur ullam, reiciendis veritatis repudiandae omnis ex deserunt,
+      nostrum reprehenderit modi? Voluptate adipisci earum voluptatem provident
+      quos, distinctio explicabo ducimus repellat, voluptas possimus,
+      repudiandae consectetur! Consequuntur dolorum veniam repellendus sit
+      alias? Nobis, mollitia cumque! Expedita sed facere aliquam suscipit, harum
+      rem minus provident maiores? Et sunt est soluta omnis a nostrum quaerat
+      nesciunt sit animi beatae harum debitis facilis obcaecati praesentium
+      earum, maiores velit nihil non minus similique explicabo vel ducimus!
+      Officiis tenetur error ut esse ad eos voluptas soluta assumenda temporibus
+      officia et quae qui quidem perferendis iure, molestiae commodi asperiores
+      eius corporis doloribus culpa quia illum. Molestiae non quas deleniti
+      tenetur voluptas inventore fugit quibusdam, qui autem, cumque molestias
+      est commodi vero repellendus quo sit ipsa ratione modi quae. Odio
+      inventore maxime ab labore repellendus tenetur ad sapiente. Sed ea, sequi,
+      vel voluptatibus fugiat officia at facere ad suscipit inventore quam
+      aspernatur numquam? Labore, a commodi. Nihil reiciendis dolorem, dolore
+      hic vitae accusamus modi quasi itaque, voluptatibus dolorum suscipit
+      aliquam nisi aliquid alias minus perferendis velit architecto expedita
+      perspiciatis dolor quam ex repellendus accusantium? Tempore debitis
+      molestias saepe aliquam odio. Animi ad incidunt voluptate iure dicta qui,
+      cupiditate itaque dolor sapiente earum. Itaque autem fuga ipsum unde aut
+      optio, laboriosam repudiandae esse beatae maxime omnis deserunt, excepturi
+      molestiae voluptas sit quo accusantium architecto eaque distinctio impedit
+      quae? Ipsum in itaque, earum animi inventore sequi, fugiat esse magni
+      eaque consectetur molestias commodi illo explicabo, modi aperiam et
+      cumque. Atque voluptatibus, esse corrupti, praesentium non omnis veniam
+      quo officia minus eaque numquam. Unde dolorem voluptate, odit, facere
+      harum in eius sapiente impedit exercitationem nobis aliquam qui minima sed
+      iste, aliquid perspiciatis recusandae at ex officia animi expedita quod
+      repellendus. Doloremque maxime alias nostrum placeat libero, consequuntur
+      inventore laudantium dolorem? Eius animi magni laborum quo. Alias
+      repellendus expedita explicabo excepturi quisquam aperiam aliquam autem,
+      vel itaque, nobis molestiae eaque totam sapiente amet consequatur, est
+      officia voluptatem. Architecto eos odio quod voluptate sed possimus, quae
+      pariatur ipsa saepe quisquam ut in! Nesciunt, alias? Nemo voluptas unde
+      placeat officiis sint optio temporibus. Blanditiis numquam harum labore
+      repudiandae, dolorem voluptas ratione? Odio excepturi ratione debitis
+      nostrum dolor tempora, ipsum numquam voluptate, reprehenderit nobis quis,
+      repellat quisquam cupiditate optio nemo similique fuga aliquid consectetur
+      exercitationem. Id quidem iste dolor! Rerum autem deleniti at sint placeat
+      exercitationem blanditiis architecto, repellat, amet repellendus officiis
+      quod delectus temporibus quis excepturi distinctio laboriosam, ex aperiam
+      hic. Iste nam odit maxime, aliquam voluptatem incidunt eos perferendis
+      laboriosam. Eligendi, quia temporibus? Neque similique accusamus libero
+      laborum! Ullam eos nesciunt sint cumque reprehenderit laudantium ducimus,
+      exercitationem non explicabo quis ad nisi quisquam asperiores quo! Quidem
+      porro deleniti aliquid voluptatibus, pariatur mollitia incidunt totam
+      cumque, placeat, quam sed. Quibusdam dolorem suscipit labore nam. Nisi
+      earum autem dolores dolorem. Quibusdam laborum maxime rem quisquam tempore
+      asperiores sed, odio corrupti soluta dignissimos eius nihil, fugiat quis.
+      Esse commodi optio libero reprehenderit ea facere, asperiores, ullam iste
+      nostrum perspiciatis voluptatum consequatur sapiente aliquid accusantium,
+      laboriosam perferendis ducimus assumenda sunt eius alias pariatur. At
+      praesentium nobis voluptatem ipsam distinctio ab soluta eveniet. Quis
+      voluptate corporis unde autem temporibus. Iste officiis beatae quam minima
+      tempore adipisci quis, vero pariatur fugit hic natus. Ad itaque cupiditate
+      repellat commodi excepturi architecto numquam quisquam, error, nam
+      incidunt aut necessitatibus alias temporibus. Enim sed odit officiis in
+      maiores non illo. Mollitia debitis sapiente eligendi et, animi sit nihil
+      molestias impedit libero adipisci, odio illo quidem hic veniam eius quos
+      quibusdam aspernatur. Quidem ex eius voluptatibus, facilis blanditiis
+      tempore delectus, itaque tempora culpa nihil nobis nulla eos, fugiat
+      aliquid dolore a aliquam laudantium. Tempora consequuntur excepturi
+      corrupti distinctio. Modi nulla dolor iste sit, eius natus quasi numquam
+      sed libero neque suscipit, temporibus perspiciatis repellat officiis
+      laboriosam nobis recusandae qui corrupti, veritatis saepe placeat
+      doloribus minima. Earum laudantium ullam consectetur repellat, nihil
+      praesentium eveniet aliquam sequi sunt magnam perspiciatis architecto
+      ratione tempora soluta doloribus saepe obcaecati sint voluptatem
+      aspernatur beatae unde minus. Nulla corporis laborum recusandae quasi
+      reprehenderit! Iure reiciendis aperiam facilis natus earum sint est hic
+      dolores recusandae veritatis aut doloribus a quia illum in officiis,
+      blanditiis repellat! Nostrum in, assumenda ipsam iusto, qui mollitia
+      numquam, ea veritatis reiciendis cupiditate tenetur odit reprehenderit nam
+      saepe vitae eos voluptas nulla. Ut libero numquam animi pariatur
+      repudiandae nisi et laudantium eveniet distinctio, labore molestias, ad
+      neque tempore sequi nulla dicta. Laborum quasi laboriosam magnam a, beatae
+      illum porro expedita temporibus eveniet reprehenderit nostrum eius,
+      exercitationem similique debitis? Optio eius voluptates quas iste tempora.
+      Vero, exercitationem! Dolores excepturi, neque earum modi rem velit. A
+      amet quisquam repudiandae voluptas vitae eius, ea, odio sapiente itaque
+      laborum ad expedita eaque, ab harum dicta laudantium adipisci optio!
+      Facere eos ipsum nihil, rerum voluptatibus quod? Delectus?
+    </p> -->
+
+    <a href="#demo" id="txt">Top</a>
+
+    <!---->
+    <!-- <a href="tel:+919065856630">call</a>
+    <a href="mailto:sandhyadhan02@gmail.com">Gmail</a> -->
+    <table border="2px">
+      <tr>
+        <th>Sno</th>
+        <th>Name</th>
+        <th>Age</th>
+        <th>City</th>
+      </tr>
+      <tr>
+        <td>1</td>
+         <td>Amit</td>
+          <td>25</td>
+         <td>noida</td>
+      </tr>
+        <tr>
+        <td>2</td>
+         <td>sandhya</td>
+          <td>25</td>
+         <td>noida</td>
+      </tr>
+        <tr>
+        <td>3</td>
+         <td>sachi</td>
+          <td>25</td>
+         <td>noida</td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+thead == always must use in html 
+
+## 14th November 2025 ##
+<html lang="en">
+  <head>
+    <title>table assignment</title>
+  </head>
+  <body>
+    <!--cellspacing cellopadding, rules=all,cols, row,none,group-->
+    <!-- <table border="2px" cellspacing="40px" cellpadding="40px" rules="all">
+      <tr>
+        <th>SNo.</th>
+        <th>Name</th>
+        <th>age</th>
+        <th>city</th>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>Amit</td>
+        <td>25</td>
+        <td bgcolor="blue">noida</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>sandhya</td>
+        <td>25</td>
+        <td>noida</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>sachi</td>
+        <td>25</td>
+        <td>noida</td>
+      </tr>
+    </table> -->
+    <!--height, width-->
+    <!-- <table  border="2px" height="500px">
+      <tr height="50px">
+        <th width="10%">SNo.</th>
+        <th width="50%">Name</th>
+        <th width="20%">age</th>
+        <th width="20%">city</th>
+      </tr>
+      <tr height="150px">
+        <td>1</td>
+        <td>Amit</td>
+        <td>25</td>
+        <td noida</td>
+      </tr>
+      <tr height="300px">
+        <td>2</td>
+        <td>sandhya</td>
+        <td>25</td>
+        <td>noida</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>sachi</td>
+        <td>25</td>
+        <td>noida</td>
+      </tr>
+    </table> -->
+    <!--rowspan, colspan-->
+    <!-- <table border="2px">
+      <tr>
+        <th colspan="4`">Student Data</th>
+      </tr>
+      <tr>
+        <th colspan="2">Name</th>
+        <th colspan="2">Address</th>
+      </tr>
+      <tr>
+        <th>Fname</th>
+        <th>Lname</th>
+        <th>City</th>
+        <th>Pin code</th>
+      </tr>
+      <tr>
+        <td>sakshi</td>
+        <td rowspan="2">kumari</td>
+        <td>delhi</td>
+        <td>201101</td>
+      </tr>
+      <tr>
+        <td>sunita</td>
+        <td rowspan="2">kumari</td>
+        <td>grt noida</td>
+        <td>201111</td>
+      </tr>
+      <tr>
+        <td>Amit</td>
+        <td>kumar</td>
+        <td>noida</td>
+        <td>201301</td>
+      </tr>
+    </table> -->
+
+    <!---->
+    <!-- <table border="2px" height="700px">
+      <tr>
+        <td colspan="2" rowspan="2">1</td>
+        <td colspan="2">2</td>
+        <td>3</td>
+        <td rowspan="4">4</td>
+      </tr>
+      <tr>
+        <td rowspan="2">5</td>
+        <td colspan="2">6</td>
+      </tr>
+      <tr>
+        <td rowspan="4">7</td>
+        <td>8</td>
+        <td>9</td>
+        <td>10</td>
+      </tr>
+      <tr>
+        <td colspan="3">11</td>
+        <td>12</td>
+      </tr>
+      <tr>
+        <td colspan="4">13</td>
+        <td colspan="2">14</td>
+      </tr>
+      <tr>
+        <td>15</td>
+        <td>16</td>
+        <td colspan="3">17</td>
+        <td>18</td>
+      </tr>
+    </table> -->
+    <!--iframe-->
+    <table border="1px" height="1000px" width="100%" rules="none">
+      <tr height="150px">
+        <td bgcolor="lightblue">
+          <img src="logo.png" alt="" width="100%" />
+        </td>
+        <td colspan="4" bgcolor="lightblue">
+          <center>
+            <font size="+3" color="red">
+              <h1>Lorem ipsum dolor sit.</h1>
+            </font>
+          </center>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+<!--doc type ?-->
+use in html 5
+use of doc type html
+;-
+
+#Media## 20-11-25
+
+1.Google bussiness
+2.bussiness.google.com
+3. sign in
+4. locaton open click 3 icone and copy the embed
+5. registered 
